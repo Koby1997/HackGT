@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Photo Gallery</string>
+    <string name="title_activity_photo_gallery">PhotoGalleryActivity</string>
+</resources>
